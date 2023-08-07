@@ -2,8 +2,10 @@
 
 I am a creative and performance-driven Digital Marketing and Big Data Analyst!
 
-🔭 I’m currently working on [Github Profilinator]([https://github.com/rishavanand/github-profilinator](https://github.com/maria-tsek)
-🌱 I’m currently learning JS and HTML
+
+- 🔭 I’m currently working on [Github Profilinator]([https://github.com/rishavanand/github-profilinator](https://github.com/maria-tsek)
+- 🌱 I’m currently learning JS and HTML
+- :blush: Pronounce: She/her
 
 ## My Skill Set 
 [![My Skills](https://skillicons.dev/icons?i=r,python,android)](https://skillicons.dev)
