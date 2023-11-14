@@ -8,8 +8,8 @@ Passionate about merging creativity with data-driven insights to deliver excepti
 - :blush: Pronounce: She/her
 
 ## My Skill Set 
-[![My Skills](https://skillicons.dev/icons?i=r,python,android,wordpress)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=r,python,android,wordpress,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,node.js,vite,mongoDB)](https://skillicons.dev)
 
 ## Connect with me  
 ![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)
