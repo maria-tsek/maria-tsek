@@ -1,18 +1,15 @@
 ### Hi there 👋
 
-I am a creative and performance-driven Digital Marketing and Big Data Analyst!
+🚀 Digital Marketing Strategist | Data Analyst | Full Stack Web Developer
 
+Passionate about merging creativity with data-driven insights to deliver exceptional digital experiences. With a background in digital marketing strategy and data analytics, I excel in creating impactful campaigns and optimizing performance.
 
 - 🔭 I’m currently working on [Github Profilinator]([https://github.com/rishavanand/github-profilinator](https://github.com/maria-tsek)
-- 🌱 I’m currently learning JS and HTML
 - :blush: Pronounce: She/her
 
 ## My Skill Set 
 [![My Skills](https://skillicons.dev/icons?i=r,python,android)](https://skillicons.dev)
-
-## I am here, let's start coding 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-
 
 ## Connect with me  
 ![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)
