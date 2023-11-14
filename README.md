@@ -8,7 +8,7 @@ Passionate about merging creativity with data-driven insights to deliver excepti
 - :blush: Pronounce: She/her
 
 ## My Skill Set 
-[![My Skills](https://skillicons.dev/icons?i=r,python,android)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=r,python,android,wordpress)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 ## Connect with me  
